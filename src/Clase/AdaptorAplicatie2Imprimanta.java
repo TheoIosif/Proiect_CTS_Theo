@@ -1,3 +1,4 @@
+package Clase;
 import Aplicatie.InterfataAplicatie;
 import Imprimanta.InterfataProduseImprimanta;
 

@@ -1,5 +1,4 @@
-
-
+package Clase;
 public class TranzactiePersoanaFizica extends Client{
 	private String nume;
 	private static final double PRAG_REDUCERE=5000.0;

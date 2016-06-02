@@ -1,3 +1,4 @@
+package Clase;
 
 public class Conexiune {
 	final String denumireBD;

@@ -1,3 +1,4 @@
+package Clase;
 
 public enum TipTranzactie {
 PERSOANA_FIZICA,

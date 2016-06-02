@@ -1,6 +1,13 @@
 
 import AccesBD.AccesProduseBD;
 import Aplicatie.ProduseDinAplicatie;
+import Clase.BuilderUtilizator;
+import Clase.Conexiune;
+import Clase.ProxyProduseAplicatie;
+import Clase.SimpleFactoryTranzactie;
+import Clase.TipTranzactie;
+import Clase.TranzactiePersoanaFizica;
+import Clase.Utilizator;
 
 public class Test {
 

@@ -1,5 +1,7 @@
 import java.security.InvalidParameterException;
 
+import Clase.TranzactiePersoanaFizica;
+import Clase.Utilizator;
 import junit.framework.TestCase;
 
 public class UnitTest extends TestCase {

@@ -1,4 +1,4 @@
-
+package Clase;
 public class TranzactiePersoanaJuridica extends Client{
     private String denPersoanaJuridica;
     private static final double LIMITA_REDUCERE=15000.0;
