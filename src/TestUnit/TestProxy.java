@@ -1,3 +1,4 @@
+package TestUnit;
 import Aplicatie.InterfataAplicatie;
 import Clase.ProxyProduseAplicatie;
 import junit.framework.TestCase;

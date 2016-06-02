@@ -1,3 +1,4 @@
+package TestUnit;
 import Clase.TranzactiePersoanaFizica;
 import junit.framework.TestCase;
 
