@@ -39,7 +39,7 @@ public class UnitTest extends TestCase {
 	
 	public void testReducereInvalida(){
 		try{
-			tranzactie_persoanaFizica.reducereClient(-3);
+			tranzactie_persoanaFizica.reducereClient(0.2);
 			fail();
 		}
 		catch(Exception e){

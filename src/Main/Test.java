@@ -1,3 +1,4 @@
+package Main;
 
 import AccesBD.AccesProduseBD;
 import Aplicatie.ProduseDinAplicatie;

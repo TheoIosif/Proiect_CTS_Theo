@@ -9,10 +9,16 @@ public class BucatarieSimpla extends AbstractMobilaBucatarie{
 		this.pret=pret;
 		
 	}
+	
+	
+	
 
 	@Override
 	public String getPiese() {
 		return "Corp inferior,corp superior,blat ";
 	}
+	
+	
+	
 
 }

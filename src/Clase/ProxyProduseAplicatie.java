@@ -17,6 +17,10 @@ public ProxyProduseAplicatie(InterfataAplicatie accesProduse) {
 	this.accesProduse = accesProduse;
 }
 
+public InterfataAplicatie getNume(){
+	return this.accesProduse;
+}
+
 
 
 public boolean AccessConnection(String password){
