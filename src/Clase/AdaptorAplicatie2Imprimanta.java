@@ -17,6 +17,10 @@ public class AdaptorAplicatie2Imprimanta implements InterfataProduseImprimanta{
 	this.db=db;
 	this.pass=pass;
 }
+	public AdaptorAplicatie2Imprimanta(InterfataAplicatie produse) {
+	this.produse = produse;
+	
+}
 
 
 

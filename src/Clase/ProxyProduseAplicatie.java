@@ -23,17 +23,15 @@ public InterfataAplicatie getNume(){
 
 
 
+
+
+
 public boolean AccessConnection(String password){
 	//test parola
 	if(password.equals("myDBPassword"))
 		return true;
 	else return false;
 }
-
-
-
-
-
 
 
 @Override

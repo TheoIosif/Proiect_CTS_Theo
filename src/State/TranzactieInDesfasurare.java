@@ -15,7 +15,7 @@ public class TranzactieInDesfasurare extends StareTranzactie{
 	@Override
 	public void InformatieTranzactie() {
 	   System.out.println("Tranzactie realizata"
-	   		+ "de casierul:"+this.numeCasier);
+	   		+ " de casierul:"+this.numeCasier);
 	   System.out.println("Tranzactie in desfasurare!");
 	   System.out.println(this.mesaj);
 		
